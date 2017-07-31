@@ -3,10 +3,10 @@
 # BitcoinCashClassic
 The classic fork implementation of BitcoinCash
 
-We are proud to announce `BitcoinCashClassic`
+We are proud to announce `BitcoinCashClassic` or just `BCC`
 
 * [Genesis](#genesis)
-* [BUC Proposals](#buc-proposals)
+* [BCC Proposals](#buc-proposals)
 * [Thanks](#thanks)
 * [Donations](#donations)
 
